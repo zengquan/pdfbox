@@ -25,3 +25,5 @@ pdfbox案例
 8. demo05：PDF文件转换为图片
 9. demo06：图片转换为PDF文件（支持多张图片转换为PDF文件）
 10 demo07：替换PDF文件中的某个字符串
+
+> [java对pdf的操作](https://bbs.huaweicloud.com/blogs/218413)
